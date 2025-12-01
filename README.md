@@ -81,8 +81,8 @@ Follow these steps to run the project locally.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/marine-safety-system.git
-    cd marine-safety-system
+    git clone https://github.com/Sanjai-Flora/maritime-environmental-safety-oil-spill-detection.git
+    cd maritime-environmental-safety-oil-spill-detection
     ```
 
 2.  **Create a Virtual Environment**
